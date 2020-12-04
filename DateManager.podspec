@@ -22,7 +22,7 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target = "10.0"
   spec.osx.deployment_target = "10.15"
 
-  spec.source       = { :git => "https://github.com/VincentGeranium/DateManager.git", :tag => "0.0.1" }
+  spec.source       = { :git => "https://github.com/VincentGeranium/DateManagerFramework.git", :tag => "0.0.1" }
 
   spec.source_files  = "DateManager"
   # spec.exclude_files = "Classes/Exclude"
